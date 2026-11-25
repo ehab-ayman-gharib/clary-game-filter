@@ -1,5 +1,5 @@
 {
-  "name": "faceswap-studio",
+  "name": "clary-game",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@snap/camera-kit": "^1.22.0",
+    "@snap/camera-kit": "^1.23.1",
     "@tailwindcss/vite": "^4.1.18",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",

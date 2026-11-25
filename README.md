@@ -1,6 +1,6 @@
-# CameraKit Web Template
+# clary-game
 
-A modern React + TypeScript + Vite web template for building browser-based AR camera experiences with **Snap Camera Kit** (`@snap/camera-kit`).
+A modern React + TypeScript + Vite web app for building browser-based AR camera experiences with **Snap Camera Kit** (`@snap/camera-kit`).
 
 ## Features
 
@@ -16,7 +16,7 @@ A modern React + TypeScript + Vite web template for building browser-based AR ca
 - **Framework**: React 19, TypeScript
 - **Build Tool**: Vite (`rolldown-vite`) with React Compiler (`babel-plugin-react-compiler`)
 - **Styling**: Tailwind CSS v4 (`@tailwindcss/vite`)
-- **AR SDK**: `@snap/camera-kit` (`^1.22.0`)
+- **AR SDK**: `@snap/camera-kit` (`^1.23.1`)
 - **Linting**: ESLint
 
 ## Getting Started
